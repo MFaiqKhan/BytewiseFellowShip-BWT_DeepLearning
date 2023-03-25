@@ -8,3 +8,4 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 
 ## Week 02:
 - [Task-05] [Enumerate - Sets - TimingYourCode - Conditionals - UserInput](/Week02/Task05%20-%20EnumerateFunc%20-%20Sets%20ETC/)
+- [Task-06] [Dictionaries - Dict Methods - Key Values - Looping in Dict - Modifying in Dict](./Week02/Task06%20-%20Dict%20Methods%20Keys/)
