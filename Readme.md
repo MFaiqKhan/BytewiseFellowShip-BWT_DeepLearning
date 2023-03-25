@@ -5,3 +5,6 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 - [Task-02] [Remote Repositories in Git](./Week01/Task02%20-%20Remote%20Repo%20in%20git/Task02-Remote-Repositories.pdf)
 - [Task-03] [Kicking of with Python](./Week01/Task03%20-%20Kicking%20of%20with%20Python/)
 - [Task-04] [Lists - Loops - Tuples](./Week01/Task04/)
+
+## Week 02:
+- [Task-05] [Enumerate - Sets - TimingYourCode - Conditionals - UserInput](/Week02/Task05%20-%20EnumerateFunc%20-%20Sets%20ETC/)
