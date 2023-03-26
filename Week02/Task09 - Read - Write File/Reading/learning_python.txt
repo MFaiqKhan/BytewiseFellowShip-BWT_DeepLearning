@@ -1,0 +1,8 @@
+In Python you can use Enumerate to get the index of the item in the list. 
+In Python you can use Dictionary to store the key value pairs.
+In Python you can use Set to store the unique values.
+In Python you can use Tuple to store the values which are immutable.
+In Python you can use List to store the values which are mutable.
+In Python you can use String to store the characters.
+In Python you can use Int to store the integer values.
+In Python you can use Float to store the decimal values.
