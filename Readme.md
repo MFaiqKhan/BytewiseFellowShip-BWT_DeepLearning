@@ -10,3 +10,4 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 - [Task-05] [Enumerate - Sets - TimingYourCode - Conditionals - UserInput](/Week02/Task05%20-%20EnumerateFunc%20-%20Sets%20ETC/)
 - [Task-06] [Dictionaries - Dict Methods - Key Values - Looping in Dict - Modifying in Dict](./Week02/Task06%20-%20Dict%20Methods%20Keys/)
 - [Task-07] [Functions in Python - DocStrings - Passing Arguments to Functions - Returning Values - Arbitrary Number of Arguments - Don't Repeat Yourself (DRY)](/Week02/Task07%20-%20Funcs%20DocStrings%20Passing%20Args%20ETC/)
+- [Task-08] [Classes - Inheritance](./Week02/Task08%20-%20Classes%20-%20Inheritance/)
