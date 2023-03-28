@@ -12,3 +12,6 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 - [Task-07] [Functions in Python - DocStrings - Passing Arguments to Functions - Returning Values - Arbitrary Number of Arguments - Don't Repeat Yourself (DRY)](/Week02/Task07%20-%20Funcs%20DocStrings%20Passing%20Args%20ETC/)
 - [Task-08] [Classes - Inheritance](./Week02/Task08%20-%20Classes%20-%20Inheritance/)
 - [Task-09] [File Reading & Writing, Try Except & Finally](/Week02/Task09%20-%20Read%20-%20Write%20File/)
+
+## Week 03:
+- [Task-10] [Introduction to Numpy, Numpy arrays - Single , Multi Dimensions, Arithmetic Operations](/Week03/Task10/)
