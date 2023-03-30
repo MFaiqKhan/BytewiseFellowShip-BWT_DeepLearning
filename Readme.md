@@ -15,3 +15,4 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 
 ## Week 03:
 - [Task-10] [Introduction to Numpy, Numpy arrays - Single , Multi Dimensions, Arithmetic Operations](/Week03/Task10/)
+- [Task-11] [Linear Alegbra with Numpy, Statistical Functions with Numpy](/Week03/Task11/)
