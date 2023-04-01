@@ -18,3 +18,4 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 - [Task-11] [Linear Alegbra with Numpy, Statistical Functions with Numpy](/Week03/Task11/)
 - [Task-12] [Broadcasting in Numpy Array](./Week03/Task12%20-%20Broadcasting%20in%20Numpy%20Arrays/)
 - [Task-13] [Introduction to Pandas, Pandas Series, Pandas DataFrames](./Week03/Task13/)
+- [Task-14] [Loading Data with Pandas, read_csv(), read_json(), read_excel(), read_sql()](./Week03/Task14/)
