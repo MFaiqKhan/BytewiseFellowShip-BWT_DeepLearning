@@ -17,3 +17,4 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 - [Task-10] [Introduction to Numpy, Numpy arrays - Single , Multi Dimensions, Arithmetic Operations](/Week03/Task10/)
 - [Task-11] [Linear Alegbra with Numpy, Statistical Functions with Numpy](/Week03/Task11/)
 - [Task-12] [Broadcasting in Numpy Array](./Week03/Task12%20-%20Broadcasting%20in%20Numpy%20Arrays/)
+- [Task-13] [Introduction to Pandas, Pandas Series, Pandas DataFrames](./Week03/Task13/)
