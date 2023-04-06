@@ -54,3 +54,41 @@ print("---------------------------------------------")
 
 print(np.sign(df).head()) # returns the sign of the values in the data frame
 # it returns 1 for positive values, 0 for zero and -1 for negative values
+
+
+""" 
+A z-score, also known as a standard score, 
+is a measure of how many standard deviations a 
+data point is from the mean of a distribution. 
+The formula for calculating the z-score of a data point is:
+z = (x - μ) / σ
+where x is the data point, μ is the mean of the distribution, 
+and σ is the standard deviation of the distribution. 
+A positive z-score indicates that the data point is above the mean, 
+while a negative z-score indicates that the data point is below the mean.
+Z-scores are useful for identifying outliers in a dataset. 
+Typically, data points with a z-score greater than 3 or less than -3 are considered to be outliers.
+"""
+
+# Create a sample DataFrame with outliers
+df = pd.DataFrame({
+    'A': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10,1212121],
+    'B': [10, 9, 8, 7, 6, 5, 4, 3, 2, 1,99999]
+})
+
+# Calculate z-scores for each value in the DataFrame
+z_scores = np.abs((df - df.mean()) / df.std())
+print(z_scores)
+
+# Keep only the rows that do not contain outliers
+df_no_outliers = df[(z_scores < 3).all(axis=1)]
+
+# Print the original DataFrame and the DataFrame with no outliers
+print("Original DataFrame:\n", df)
+print("\nDataFrame with no outliers:\n", df_no_outliers) 
+
+# In this example, the z-scores are calculated using the formula (x - mean) / std,
+#  where x is each value in the DataFrame, and mean and std are the mean and 
+# standard deviation of the DataFrame, respectively. The boolean mask is then 
+# created by selecting only the rows where all the z-scores are less than 3. 
+# Finally, a new DataFrame is created with only the selected rows.
