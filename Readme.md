@@ -22,3 +22,4 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 
 ## Week 04:
 - [Task-15] [Handling Missing Data, Filling and Replacing Values, Removing Duplicates, Detecting and Removing Outliers](/Week04/Task15%20-%20Cleaning%20with%20Pandas/)
+- [Task-16] [Combining and Merging Datasets, Reshaping Data](./Week04/Task16%20-%20Combining%20and%20Reshaping%20Datasets/)
