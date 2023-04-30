@@ -23,7 +23,7 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 ## Week 04:
 - [Task-15] [Handling Missing Data, Filling and Replacing Values, Removing Duplicates, Detecting and Removing Outliers](/Week04/Task15%20-%20Cleaning%20with%20Pandas/)
 - [Task-16] [Combining and Merging Datasets, Reshaping Data](./Week04/Task16%20-%20Combining%20and%20Reshaping%20Datasets/)
-- [Data-Project-First Project] [Data Project - Data Cleaning - Use of Pandas - Matplotlib - Visualization of Data](Week04\Data-Project(First Project)\formatted_solution.ipynb)
+- [Data-Project-First Project] [Data Project - Data Cleaning - Use of Pandas - Matplotlib - Visualization of Data](https://github.com/MFaiqKhan/BytewiseFellowShip-BWT_DeepLearning/blob/ff8b497a8d91ce5f62057e3462d33418a42ff403/Week04/Data-Project(First%20Project)/formatted_solution.ipynb)
 
 ## Week 05:
 - [Task-17] [KNN Classifier Using Scikit-Learn](/Week05/Task17/KNN(K_Nearest_Neighbors).ipynb)
