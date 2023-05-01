@@ -28,3 +28,7 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 ## Week 05:
 - [Task-17] [KNN Classifier Using Scikit-Learn](/Week05/Task17/KNN(K_Nearest_Neighbors).ipynb)
 - [Task-18] [Naïve Bayes Implementation, Decision Tree Implementation](/Week05/Task18/)
+
+## Week 06:
+- [Task-19] [Introduction to Deep Learning,  Building Block of Deep Learning, A look on Neural Network, Tensor Operations](/Week06/Task19/Task%2019_%20Introduction%20to%20Deep%20Learning%2C%20%20Building%20Block%20of%20Deep%20Learning%2C%20A%20look%20on%20Neural%20Network%2C%20Tensor%20Operations%20%20(1).pdf)
+- [Task-20] [Logistic Regression Implementation](/Week06/Task20/)
