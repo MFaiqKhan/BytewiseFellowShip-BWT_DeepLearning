@@ -32,3 +32,7 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 ## Week 06:
 - [Task-19] [Introduction to Deep Learning,  Building Block of Deep Learning, A look on Neural Network, Tensor Operations](/Week06/Task19/Task%2019_%20Introduction%20to%20Deep%20Learning%2C%20%20Building%20Block%20of%20Deep%20Learning%2C%20A%20look%20on%20Neural%20Network%2C%20Tensor%20Operations%20%20(1).pdf)
 - [Task-20] [Introduction to Keras, Example Projects on Classification and Regression](https://github.com/MFaiqKhan/BytewiseFellowShip-BWT_DeepLearning/blob/master/Week06/Task20%20-%20Keras%20Classification%20and%20Regression/Introduction_to_Keras,_Example_Projects_on_Classification_and_Regression.ipynb)
+
+## Week 07:
+- [Task-21] ["Baat Cheet, discussion, and reporting, Virtual Meetin ONLY"]
+- [Task-22] [Supervised, Unsupervised, Self-Supervised, and Reinforcement Learning](./Week07/Task22/Task%2022_%20Supervised%2C%20Unsupervised%2C%20semi-supervised%2C%20Reinforcement%20Learning.pdf)
