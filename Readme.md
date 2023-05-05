@@ -36,3 +36,4 @@ This Repository Follows the 3 months of Fellowship tasks given by Bytewise Deep-
 ## Week 07:
 - [Task-21] ["Baat Cheet, discussion, and reporting, Virtual Meetin ONLY"]
 - [Task-22] [Supervised, Unsupervised, Self-Supervised, and Reinforcement Learning](./Week07/Task22/Task%2022_%20Supervised%2C%20Unsupervised%2C%20semi-supervised%2C%20Reinforcement%20Learning.pdf)
+- [Task-23] [Dataset Loading and Understanding Training, Validation and Test Sets](./Week07/Task23/Training%2C%20Validation%2C%20and%20Test%20Sets.pdf)
